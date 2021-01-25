@@ -2,6 +2,7 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - CameraPointer
+    - GyroController
     - ObjectController
     - VrEditorEmulator
     - VrModeController
@@ -20,6 +21,13 @@ ScriptsOnlyBuild:
     - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
     UnityEngine.SpatialTracking.dll:
     - UnityEngine.SpatialTracking.TrackedPoseDriver
+    UnityEngine.UI.dll:
+    - UnityEngine.EventSystems.EventSystem
+    - UnityEngine.EventSystems.StandaloneInputModule
+    - UnityEngine.UI.Button
+    - UnityEngine.UI.CanvasScaler
+    - UnityEngine.UI.GraphicRaycaster
+    - UnityEngine.UI.Image
   sceneClasses:
     Assets/Samples/Google Cardboard XR Plugin for Unity/1.4.1/Hello Cardboard/Scenes/VrMode.unity:
     - Class: 1
@@ -49,6 +57,18 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
+      Script: {instanceID: 11248}
+    - Class: 114
+      Script: {instanceID: 11446}
+    - Class: 114
+      Script: {instanceID: 11834}
+    - Class: 114
+      Script: {instanceID: 12218}
+    - Class: 114
+      Script: {instanceID: 12698}
+    - Class: 114
+      Script: {instanceID: 13048}
+    - Class: 114
       Script: {instanceID: 13610}
     - Class: 114
       Script: {instanceID: 14012}
@@ -56,6 +76,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 14014}
     - Class: 114
       Script: {instanceID: 14016}
+    - Class: 114
+      Script: {instanceID: 14426}
     - Class: 114
       Script: {instanceID: 14430}
     - Class: 115
@@ -67,6 +89,12 @@ ScriptsOnlyBuild:
     - Class: 157
       Script: {instanceID: 0}
     - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
       Script: {instanceID: 0}
     - Class: 224
       Script: {instanceID: 0}
@@ -596,4 +624,4 @@ ScriptsOnlyBuild:
   platform: 9
   scenePathNames:
   - Assets/Samples/Google Cardboard XR Plugin for Unity/1.4.1/Hello Cardboard/Scenes/VrMode.unity
-  playerPath: /Users/callmeswee/Documents/1_unity/2_week2/1_unityFiles/sreeLab_cardboard_1/sreeCardboard_1/builds/1_carboardVR
+  playerPath: /Users/callmeswee/Documents/1_unity/2_week2/1_unityFiles/builds/2_carboardVR

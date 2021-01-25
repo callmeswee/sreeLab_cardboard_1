@@ -1,19 +1,18 @@
 ﻿<Properties StartupConfiguration="{3B06FE70-7FF1-950C-1FDD-849417DAC28D}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AltRealities/Scripts/VrEditorEmulator.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Samples/Google Cardboard XR Plugin for Unity/1.4.1/Hello Cardboard/Scripts/VrModeController.cs">
     <Files>
       <File FileName="Assets/Samples/Google Cardboard XR Plugin for Unity/1.4.1/Hello Cardboard/Scripts/CameraPointer.cs" Line="1" Column="1" />
-      <File FileName="Assets/Samples/Google Cardboard XR Plugin for Unity/1.4.1/Hello Cardboard/Scripts/ObjectController.cs" Line="105" Column="23" />
-      <File FileName="Assets/AltRealities/Scripts/VrEditorEmulator.cs" Line="1" Column="1" />
+      <File FileName="Assets/Samples/Google Cardboard XR Plugin for Unity/1.4.1/Hello Cardboard/Scripts/ObjectController.cs" />
+      <File FileName="Assets/AltRealities/Scripts/VrEditorEmulator.cs" />
+      <File FileName="Assets/Samples/Google Cardboard XR Plugin for Unity/1.4.1/Hello Cardboard/Scripts/VrModeController.cs" Line="98" Column="23" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="sreeCardboard_1" expanded="True">
-            <Node name="Assets" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
               <Node name="AltRealities" expanded="True">
-                <Node name="Scripts" expanded="True">
-                  <Node name="VrEditorEmulator.cs" selected="True" />
-                </Node>
+                <Node name="Scripts" expanded="True" />
               </Node>
               <Node name="Samples" expanded="True">
                 <Node name="Google Cardboard XR Plugin for Unity" expanded="True">
@@ -32,7 +31,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8a8cbe5f-5a6b-4f65-86c5-35335092f380" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="154a44b1-ddad-4110-9f3c-4ef6006e1d1a" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
