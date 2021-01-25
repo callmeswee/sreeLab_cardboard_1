@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{3B06FE70-7FF1-950C-1FDD-849417DAC28D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Samples/Google Cardboard XR Plugin for Unity/1.4.1/Hello Cardboard/Scripts/ObjectController.cs">
+    <Files>
+      <File FileName="Assets/Samples/Google Cardboard XR Plugin for Unity/1.4.1/Hello Cardboard/Scripts/CameraPointer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Samples/Google Cardboard XR Plugin for Unity/1.4.1/Hello Cardboard/Scripts/ObjectController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="sreeCardboard_1" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Samples" expanded="True">
+                <Node name="Google Cardboard XR Plugin for Unity" expanded="True">
+                  <Node name="1.4.1" expanded="True">
+                    <Node name="Hello Cardboard" expanded="True">
+                      <Node name="Scripts" expanded="True">
+                        <Node name="ObjectController.cs" selected="True" />
+                      </Node>
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8a8cbe5f-5a6b-4f65-86c5-35335092f380" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
